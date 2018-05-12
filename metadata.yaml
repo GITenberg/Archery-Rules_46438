@@ -1,0 +1,25 @@
+_repo: Archery-Rules_46438
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46438-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hinrichs, Charles F. A.
+    gutenberg_agent_id: '43785'
+    url: http://www.gutenberg.org/2009/agents/43785
+description: ''
+gutenberg_issued: '2014-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46438'
+  lccn: '05023445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Archery'
+- !lcc 'GV'
+title: Archery Rules
+url: http://www.gutenberg.org/ebooks/46438
