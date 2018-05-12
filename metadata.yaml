@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43785'
     url: http://www.gutenberg.org/2009/agents/43785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46438#Archery-Rules
 gutenberg_issued: '2014-07-28'
 gutenberg_type: Text
 identifiers:
